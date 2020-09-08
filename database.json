@@ -6,6 +6,20 @@
             "breed": "Poodle",
             "customerId": 1,
             "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Cormac",
+            "breed": "Lab",
+            "customerId": 3,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Melba",
+            "breed": "Pitbull",
+            "customerId": 2,
+            "locationId": 2
         }
     ],
     "customers": [
@@ -13,9 +27,40 @@
             "id": 1,
             "name": "Hannah Hall",
             "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Jack Parsons",
+            "address": "Nunya"
+        },
+        {
+            "id": 3,
+            "name": "Holly Parsons",
+            "address": "Also Nunya"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Nandor The Relentless",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Nadja Cravensworth",
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Lazlo Cravensworth",
+            "locationId": 1
+        },
+        {
+            "id": 4,
+            "name": "Colin Robinson",
+            "locationId": 2
+        }
+    ],
     "locations": [
         {
             "id": 1,
